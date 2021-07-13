@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -32,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+In this project, the challenge was trying to understand all the functions and methods that we used to create the Todo app. 
+It was mind-blowing when I got introduced to git and GitHub but it's fun to learn.
 
 ## License
 
